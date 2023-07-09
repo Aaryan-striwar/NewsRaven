@@ -1,0 +1,76 @@
+{
+  "status": "ok",
+  "totalResults": 7,
+  "articles": [
+    {
+      "source": { "id": "nhl-news", "name": "NHL News" },
+      "author": "NHL.com",
+      "title": "2023 NHL Awards finalists",
+      "description": "The 2023 NHL Awards will be held at Bridgestone Arena in Nashville on June 26 (8pm ET (TNT, Sportsnet, TVA Sports). A total of 12 awards will be handed out with the General Manager of the Year winner being announced at the 2023 Upper Deck NHL Draft on June 28…",
+      "url": "https://www.nhl.com/news/2023-nhl-awards-finalists/c-344932972",
+      "urlToImage": "https://cms.nhl.bamgrid.com/images/photos/344933372/1024x576/cut.jpg",
+      "publishedAt": "2023-06-19T17:52:37Z",
+      "content": "The 2023 NHL Awards will be held at Bridgestone Arena in Nashville on June 26 (8pm ET (TNT, Sportsnet, TVA Sports). A total of 12 awards will be handed out with the General Manager of the Year winner… [+3369 chars]"
+    },
+    {
+      "source": { "id": "news24", "name": "News24" },
+      "author": "Raymond Joseph and Masego Mafata",
+      "title": "Man behind failed Soweto sports centre has fingers in several Lottery pies",
+      "description": "The National Lotteries Commission paid R6 million towards a sports facility that has never been built.",
+      "url": "https://www.news24.com/fin24/companies/man-behind-failed-soweto-sports-centre-has-fingers-in-several-lottery-pies-20230619",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/3639/5705f167343949ffb7097bdac9f57d56.jpg",
+      "publishedAt": "2023-06-19T17:47:53+00:00",
+      "content": "<ul><li>The National Lotteries Commission paid R6 million towards a sports facility that has never been built.</li><li>The money was paid to Motheo Sports and Entertainment Foundation even though per… [+13503 chars]"
+    },
+    {
+      "source": { "id": "news-com-au", "name": "News.com.au" },
+      "author": null,
+      "title": "AFL legend Ben Cousins lands new TV gig",
+      "description": "<p>Ben Cousins has continued to turn his life around and will now read the morning sports bulletin on Channel 7 in Perth.</p>",
+      "url": "https://www.news.com.au/sport/afl/harder-than-it-looks-afl-legend-ben-cousins-lands-new-tv-job/news-story/17791d62250288b54aa96f9880a0ef29",
+      "urlToImage": "https://content.api.news/v3/images/bin/0cd08b155c9226f7caf8e84c1fa5dcdc",
+      "publishedAt": "2023-06-19T13:38:00Z",
+      "content": "Ben Cousins has continued to turn his life around and will now read the morning sports bulletin on Channel 7 in Perth.\r\nThe West Coast legend debuted on Monday and continues his rehabilitation from w… [+2933 chars]"
+    },
+    {
+      "source": { "id": "time", "name": "Time" },
+      "author": "Solcyre Burga",
+      "title": "What to Know About Texas Gov. Greg Abbott's Newly-Signed Laws Restricting Trans, DEI, and Labor Rights",
+      "description": "Texas Gov. Greg Abbott signed numerous bills this week, including some that restrict labor rights, ban transgender women from competing in sports, and bar universities and colleges from having their own diversity offices and training.",
+      "url": "http://time.com/6288145/texas-gov-greg-abbott-signed-several-bans-restrictions/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2023/06/GettyImages-1497023906.jpg?quality=85&w=1024&h=628&crop=1",
+      "publishedAt": "2023-06-18T21:05:45Z",
+      "content": "Texas Gov. Greg Abbott signed numerous bills this week, including some that restrict labor rights, ban transgender women from competing in sports, and bar universities and colleges from having their … [+3800 chars]"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": null,
+      "title": "2023 NFL playoff and division predictions from Colin Cowherd",
+      "description": "FOX Sports' Colin Cowherd shared his division-by-division predictions for the upcoming NFL season as teams finished up minicamp.",
+      "url": "http://www.foxsports.com/stories/nfl/colin-cowherds-nfl-division-by-division-predictions-after-minicamp",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/06/1408/814/fins.2.jpg?ve=1&tl=1",
+      "publishedAt": "2023-06-18T02:34:55Z",
+      "content": "Per usual, there's plenty of juicy storylines and NFL teams that have the makings of a Super Bowl contender. So how will next season shake out?\r\nColin Cowherd provided his predictions for the 2023 NF… [+4519 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "☄️ Knicks Playoff Special ",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/431020-knicks-start-playoff-run--hero-ball",
+      "urlToImage": null,
+      "publishedAt": "2023-04-17T21:22:15.1716203Z",
+      "content": "Knicks Start Playoff Run | Hero Ball"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "&#x27;The Voncast&#x27; with Myles Garrett",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/304730-the-voncast-with-myles-garrett",
+      "urlToImage": null,
+      "publishedAt": "2022-12-01T18:52:49.4768049Z",
+      "content": "Myles Garrett and Von Miller talk playing in the NBA, pick their dream NFL defense and more"
+    }
+  ]
+}
